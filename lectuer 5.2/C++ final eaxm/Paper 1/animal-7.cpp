@@ -1,0 +1,1 @@
+/*Define an abstract class `Animal` with virtual functions `sound()` and `move()`. Implement concrete/normal classes `Dog` and `Bird` that inherit from `Animal`. Demonstrate polymorphism by creating an array of `Animal` pointers pointing to objects of both `Dog` and `Bird`. Call the `sound()` and `move()` functions for each object.*/
